@@ -47,20 +47,23 @@ function resta(x, y) {
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  return ("la multipicacion es:" + ( x * y ))
+  return ("la multipicacion es:" + ( x * y ));
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
-  
+  return("la division es:" + ( x / y ));
 }
 
 function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
-  
+  if  (x === y)
+  {
+    return("los numeros son iguales:"+("true"));
+  } return("los numeros son iguales:"+ ("false"))
 }
 
 function tienenMismaLongitud(str1, str2) {
