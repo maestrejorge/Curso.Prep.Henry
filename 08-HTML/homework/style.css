@@ -1,0 +1,43 @@
+h1 {
+    color: red ;
+    display: flex;
+    place-content: center;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    place-content: center;
+    align-items: center;
+    justify-content: center;
+}
+h3{
+    display: flex;
+    place-content: center;
+    align-items: center;
+    justify-content: center;
+}
+img {
+    width: 400px;
+   
+}
+#thirdDiv {
+    background-color: seagreen;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: 10px silver solid;
+    margin: 20px;
+    display: flex;
+    place-content: center;
+    align-items: center;
+    justify-content: center; 
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    
+}
+.divClass {
+     background: silver ;
+}

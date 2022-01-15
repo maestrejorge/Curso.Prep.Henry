@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables : las variables son simbolos que se utilizan para representar un fenomeno real o imaginario, puede ser un numero, una palabra o un objeto. 
+	* Strings : en el mundo de la programacion una String es una cadena que el interprete lee y entiende como unicamente texto. 
+	* Funciones (argumentos, `return`) : Las funciones son procedimientos que se ejecutan paso a paso y, de manera logica; para entregar al usuario un problema resuelto.  (una analogia es la alimentacion: Comen (reciben infoamacion "argumentos") , digieren (procesan la informacion) y cagan (retornan o entregan la informacion procesada ) ) )
+	* Declaraciones `if` : las declaraciones son las herramientas que utilizan las funciones para procesar la informacion, son la forma como el interprete recibe las ordenes. 
+	* Valores booleanos (`true`, `false`) : representan dos estados, encedido o apagado en la maquina; tambien representan dos valores de la misma indole pero represetando comportamientos contrarios es a lo que en los numeros es a positivo o negativo, o en los idiomas o declaraciones de software corresponde a Si o No.(if).  
